@@ -8,10 +8,10 @@ obsah složky cpp:
 obsah složky php:
 
   1x zadání a 4 soubory:
-  -db.php 
-  -pridej_tarif.php
-  -report_objednavky.php
-  -vypis_tarify.php
+    -db.php 
+    -pridej_tarif.php
+    -report_objednavky.php
+    -vypis_tarify.php
   
   
   
